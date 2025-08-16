@@ -10,4 +10,8 @@ button {
     padding: 10px 15px; /* Innenabstand / Padding */
     font-size: 16px; /* Schriftgröße / Font size */
     cursor: pointer; /* Zeigerzeiger für Maus / Pointer cursor for mouse */
+    background-color: #007bff; /* Hintergrundfarbe für Schaltflächen / Background color for buttons */
+    color: #ffffff; /* Textfarbe für Schaltflächen / Text color for buttons */
+    border: none; /* Keine Rahmen / No border */
+    border-radius: 5px; /* Abgerundete Ecken / Rounded corners */
 }
