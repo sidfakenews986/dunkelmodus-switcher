@@ -1,13 +1,13 @@
 /* Grundlegende Stile für den Body */
 body {
-    background-color: #ffffff; /* Hintergrundfarbe */
-    color: #000000; /* Textfarbe */
-    transition: background-color 0.3s, color 0.3s; /* Übergangseffekte */
+    background-color: #ffffff; /* Hintergrundfarbe / Background color */
+    color: #000000; /* Textfarbe / Text color */
+    transition: background-color 0.3s, color 0.3s; /* Übergangseffekte / Transition effects */
 }
 
 /* Stil für Buttons */
 button {
-    padding: 10px 15px; /* Innenabstand */
-    font-size: 16px; /* Schriftgröße */
-    cursor: pointer; /* Zeigerzeiger für Maus */
+    padding: 10px 15px; /* Innenabstand / Padding */
+    font-size: 16px; /* Schriftgröße / Font size */
+    cursor: pointer; /* Zeigerzeiger für Maus / Pointer cursor for mouse */
 }
